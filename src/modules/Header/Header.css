@@ -1,0 +1,27 @@
+.header{
+display:flex;
+justify-content: space-between;
+align-items: center;
+margin: 2%;
+}
+
+.header a{
+    color:#F2F2F2;
+    background-color: #F22E2E;
+    padding: 1.8% 5%;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.header a:hover{
+    background-color: #F26363;
+    cursor:pointer;
+
+}
+
+.div_buttons{
+    display:flex;
+    justify-content: flex-end;
+width:60%;
+height:30%;
+}

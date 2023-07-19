@@ -1,0 +1,19 @@
+.section_carousel{
+    width:50%;
+
+}
+
+.section_carousel h2{
+    color:#F2F2F2;
+}
+
+.div_carousel{
+    width:100%;
+}
+
+.centralizar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
