@@ -27,3 +27,20 @@ padding: 2%;
 width:60%;
 height:30%;
 }
+
+@media (max-width: 615px){
+    .div_buttons{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .header{
+        display: block;
+        justify-content: center;
+    }
+    .div_buttons a{
+        margin:1px;
+        height: 40px;
+    }
+  
+}

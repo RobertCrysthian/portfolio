@@ -1,8 +1,11 @@
 import preview from './preview.json'
 import './Galeria.css'
 import { useState } from 'react'
+import { Link, useLocation, useNavigate } from 'react-router-dom'
 
 export default function Galeria(){
+
+    const navigate = useNavigate();
 
     const tags = [... new Set(preview.map((valor) => valor.tag))]
     const [filter, setFilter] =useState(preview)
@@ -22,7 +25,11 @@ export default function Galeria(){
             <div class="centralizar">
                 <div className="images">
                     {filter.map((e)=> {
-                        return <img src={e.imagem} alt="galery images" width={380}/>
+                        return <img src={e.imagem} 
+                        alt="galery images"
+                        width={380}
+                        onClick={() => navigate(`imagem/${e.id}`)}
+                    />
                     })}
                 </div>
             </div>
