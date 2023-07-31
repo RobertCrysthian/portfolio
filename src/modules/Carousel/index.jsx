@@ -9,20 +9,22 @@ export default function CarouselComponent(){
         <div className="centralizar">
         <section class="section_carousel">
             <h2>Projetos de destaque:</h2>
-            <Carousel autoPlay={true} infiniteLoop={true} interval={3000} dynamicHeight={true}>
-                <div className="div_carousel">
-                    <img src={imagens[0].imagem} />
-                    
-                </div>
-                <div className="div_carousel">
-                    <img src={imagens[1].imagem}/>
-                   
-                </div>
-                <div className="div_carousel">
-                    <img src={imagens[2].imagem} />
-                    
-                </div>
-            </Carousel>
+            <div className="tamanhoCarousel">
+                <Carousel autoPlay={true} infiniteLoop={true} interval={3000} >
+                    <div className="div_carousel">
+                        <img src={imagens[0].imagem}/>
+                        
+                    </div>
+                    <div className="div_carousel">
+                        <img src={imagens[3].imagem}/>
+                        
+                    </div>
+                    <div className="div_carousel">
+                        <img src={imagens[4].imagem} />
+                        
+                    </div>
+                </Carousel>
+            </div>
         </section>
         </div>
     )

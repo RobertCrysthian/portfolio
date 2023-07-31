@@ -1,13 +1,13 @@
-import imagens from './Images.json'
+import preview from './preview.json'
 import './Galeria.css'
 import { useState } from 'react'
 
 export default function Galeria(){
 
-    const tags = [... new Set(imagens.map((valor) => valor.tag))]
-    const [filter, setFilter] =useState(imagens)
+    const tags = [... new Set(preview.map((valor) => valor.tag))]
+    const [filter, setFilter] =useState(preview)
     var changeImg =(tag) => {
-        var newImages = imagens.filter((e) =>{
+        var newImages = preview.filter((e) =>{
             return e.tag === tag;
         })
         setFilter(newImages);
@@ -17,12 +17,12 @@ export default function Galeria(){
             <h1>All my projects: </h1>
             <ul>
                 {tags.map((e) => {return <li onClick={() => changeImg(e)}>{e}</li>})}
-                <li onClick={() => setFilter(imagens)}>All</li>
+                <li onClick={() => setFilter(preview)}>All</li>
             </ul>
             <div class="centralizar">
                 <div className="images">
                     {filter.map((e)=> {
-                        return <img src={e.imagem} alt="galery images" width={e.width} height={e.heigth}/>
+                        return <img src={e.imagem} alt="galery images" width={380}/>
                     })}
                 </div>
             </div>

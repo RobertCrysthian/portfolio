@@ -8,8 +8,11 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <AboutMe/>
-      <CarouselComponent/>
+
+        <AboutMe/>
+        <CarouselComponent/>
+
+
       <Galeria/>
     </div>
   );
