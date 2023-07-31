@@ -1,0 +1,129 @@
+[
+    {
+    "titulo": "Sailor new remaster",
+    "imagem": "/assets/Preview/p-Sailor new remaster.png",
+    "id": "1",
+    "tag": "Portrait"
+    },
+    {
+    "titulo": "Coconut",
+    "imagem": "/assets/Preview/p-coconut.jpg",
+    "id": "2",
+    "tag": "Full-body" 
+    },
+    {
+    "titulo": "Dva hi",
+    "imagem": "/assets/Preview/p-Eliza.jpg",
+    "id": "3",
+    "tag": "Half-Body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-frutinha1.jpg",
+    "id": "4",
+    "tag": "Other"
+        },
+        {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-Sam process.jpg",
+    "id": "5",
+    "tag": "Landscape" 
+        },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-Kiriko true.jpg",
+    "id": "6",
+    "tag": "Half-Body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-landscape without personbrush.jpg",
+    "id": "7",
+    "tag": "Landscape"
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-Landscape2.jpg",
+    "id": "8",
+    "tag": "Landscape" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-Maçazinha.jpg",
+    "id": "9",
+    "tag": "Other"
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-mercy.jpg",
+    "id": "10",
+    "tag": "Half-Body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-mina do danga2.jpg",
+    "id": "11",
+    "tag": "Half-Body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-mis fortuna.jpg",
+    "id": "12",
+    "tag": "Portrait"
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-moji.jpg",
+    "id": "13",
+    "tag": "Full-body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-O tal estudo de perspectiva.jpg",
+    "id": "14",
+    "tag": "Full-body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-osu! main menu 2732x1536.jpg",
+    "id": "15",
+    "tag": "Full-body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-peckock.jpg",
+    "id": "16",
+    "tag": "Portrait" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-reflexo.jpg",
+    "id": "17",
+    "tag": "Other"
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-rezero.jpg",
+    "id": "18",
+    "tag": "Full-body" 
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-S196.png",
+    "id": "19",
+    "tag": "Half-Body"
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-get jinx.jpg",
+    "id": "20",
+    "tag": "Portrait"
+    },
+    {
+    "titulo": "Nome da Foto",
+    "imagem": "/assets/Preview/p-Capitão aaa.jpg",
+    "id": "21",
+    "tag": "Landscape"
+    }
+
+]
