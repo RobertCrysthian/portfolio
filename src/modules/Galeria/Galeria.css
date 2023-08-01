@@ -1,10 +1,6 @@
-.images{
-    width:98%;
-
-}
-
 .images img{
-    margin: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
 .galeria{
@@ -43,4 +39,27 @@
 
 h1{
     color:#F2F2F2;
+}
+
+@media(max-width:800px){
+
+    .galeria ul{
+        display:flex;
+        align-items: center;
+        flex-direction: column;
+        width: 80%;
+        
+    }
+    .galeria li{
+        width: 70%;
+        
+    }
+    .images img{
+        width: 80%;
+    }
+    .centralizar{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }

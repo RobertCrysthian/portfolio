@@ -2,140 +2,160 @@
     {
     "titulo": "Sailor Moon frame",
     "imagem": "/assets/Preview/p-Sailor new remaster.png",
-    "id": "1",
+    "descricao": "Draw I made when was everybody drawing her",
+    "id": "0",
     "tag": "Portrait",
     "imgCompleta": "/assets/Desenhos/Sailor new remaster.jpg"
     },
     {
     "titulo": "Coconut falling",
     "imagem": "/assets/Preview/p-coconut.jpg",
-    "id": "2",
+    "descricao": "Neko girl falling slowly",
+    "id": "1",
     "tag": "Full-body",
     "imgCompleta": "/assets/Desenhos/coconut.jpg"
     },
     {
     "titulo": "Eliza stonks",
     "imagem": "/assets/Preview/p-Eliza.jpg",
-    "id": "3",
+    "descricao": "It was made when Eliza got a huge buff",
+    "id": "2",
     "tag": "Half-Body",
     "imgCompleta": "/assets/Desenhos/Eliza.jpg"
     },
     {
     "titulo": "Little frutas",
     "imagem": "/assets/Preview/p-frutinha1.jpg",
-    "id": "4",
+    "descricao": "I made this trying to emulate tradicional painting",
+    "id": "3",
     "tag": "Other",
     "imgCompleta": "/assets/Desenhos/frutinha1.jpg"
         },
         {
     "titulo": "Sam's process study",
     "imagem": "/assets/Preview/p-Sam process.jpg",
-    "id": "5",
+    "descricao": "This is a copy from an art made by Sam. I was trying to learn with his style.",
+    "id": "4",
     "tag": "Landscape",
     "imgCompleta": "/assets/Desenhos/Sam process.jpg"
         },
     {
     "titulo": "Kiriko pray",
     "imagem": "/assets/Preview/p-Kiriko true.jpg",
-    "id": "6",
+    "descricao": "Kiriko pray :pray: ",
+    "id": "5",
     "tag": "Half-Body",
     "imgCompleta": "/assets/Desenhos/Kiriko true.jpg"
     },
     {
     "titulo": "Landscape study",
     "imagem": "/assets/Preview/p-landscape without personbrush.jpg",
-    "id": "7",
+    "descricao": "Trying to paint a landscape using laço tool",
+    "id": "6",
     "tag": "Landscape",
     "imgCompleta": "/assets/Desenhos/landscape without personbrush.jpg"
     },
     {
     "titulo": "Capitães d'areia",
     "imagem": "/assets/Preview/p-Capitão aaa.jpg",
-    "id": "8",
+    "descricao": "This was a first page of a material who a made with a friend in college",
+    "id": "7",
     "tag": "Landscape",
     "imgCompleta": "/assets/Desenhos/Capitão aaa.jpg" 
     },
     {
     "titulo": "Little maça",
     "imagem": "/assets/Preview/p-Maçazinha.jpg",
-    "id": "9",
+    "descricao": "Attempt to draw apples",
+    "id": "8",
     "tag": "Other",
     "imgCompleta": "/assets/Desenhos/Maçazinha.jpg"
     },
     {
     "titulo": "I don't wanna go Mercy",
     "imagem": "/assets/Preview/p-mercy.jpg",
-    "id": "10",
+    "descricao": "I don't wanna play with any kind of support",
+    "id": "9",
     "tag": "Half-Body",
     "imgCompleta": "/assets/Desenhos/mercy.jpg" 
     },
     {
     "titulo": "Danganronpa's lady",
     "imagem": "/assets/Preview/p-mina do danga2.jpg",
-    "id": "11",
+    "descricao": "This girl is insane",
+    "id": "10",
     "tag": "Half-Body",
     "imgCompleta": "/assets/Desenhos/mina do danga2.jpg" 
     },
     {
     "titulo": "Miss fortona",
     "imagem": "/assets/Preview/p-mis fortuna.jpg",
-    "id": "12",
+    "descricao": "strong woman",
+    "id": "11",
     "tag": "Portrait",
     "imgCompleta": "/assets/Desenhos/mis fortuna.jpg"
     },
     {
     "titulo": "Creepy moji",
     "imagem": "/assets/Preview/p-moji.jpg",
-    "id": "13",
+    "descricao": "I don't like this, but...",
+    "id": "12",
     "tag": "Full-body",
     "imgCompleta": "/assets/Desenhos/moji.jpg" 
     },
     {
     "titulo": "Perspective training",
     "imagem": "/assets/Preview/p-O tal estudo de perspectiva.jpg",
-    "id": "14",
+    "descricao": "Attempt to make a draw with environment",
+    "id": "13",
     "tag": "Full-body",
     "imgCompleta": "/assets/Desenhos/O tal do estudo de perspectiva.jpg"
     },
     {
     "titulo": "Osu contest try",
     "imagem": "/assets/Preview/p-osu! main menu 2732x1536.jpg",
-    "id": "15",
+    "descricao": "I made a full draw to participate of a contest but don't finished at time",
+    "id": "14",
     "tag": "Full-body",
     "imgCompleta": "/assets/Desenhos/osu! main menu 2732x1536.jpg"
     },
     {
     "titulo": "Peacock",
     "imagem": "/assets/Preview/p-peckock.jpg",
-    "id": "16",
+    "descricao": "I love pavão",
+    "id": "15",
     "tag": "Portrait",
     "imgCompleta": "/assets/Desenhos/peacock.jpg" 
     },
     {
     "titulo": "Ilumination study",
     "imagem": "/assets/Preview/p-reflexo.jpg",
-    "id": "17",
+    "descricao": "I don't even know why I put this here",
+    "id": "16",
     "tag": "Other",
     "imgCompleta": "/assets/Desenhos/reflexo.jpg"
     },
     {
     "titulo": "Simblins from re-zero",
     "imagem": "/assets/Preview/p-rezero.jpg",
-    "id": "18",
+    "descricao": "I don't know the name of these characters, but I like them",
+    "id": "17",
     "tag": "Full-body",
     "imgCompleta": "/assets/Desenhos/rezero.jpg" 
     },
     {
     "titulo": "Colab with biscoito",
     "imagem": "/assets/Preview/p-S196.png",
-    "id": "19",
+    "descricao": "An colab who I made with my friend 'Biscoito'. He made the lineart and I made the painting",
+    "id": "18",
     "tag": "Half-Body",
     "imgCompleta": "/assets/Desenhos/S196.png"
     },
     {
     "titulo": "Get Jinx",
     "imagem": "/assets/Preview/p-get jinx.jpg",
-    "id": "20",
+    "descricao": "Crazy das ideia",
+    "id": "19",
     "tag": "Portrait",
     "imgCompleta": "/assets/Desenhos/get jinx.jpg"
     }

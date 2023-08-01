@@ -20,4 +20,26 @@
     justify-content: center;
 }
 
+@media(max-width:1350px){
+    .div_carousel{
+        height:70vh;
+    }
+    .section_carousel{
+        width: 60%;
+    }
+}
+
+@media (max-width:800px) {
+    .div_carousel{
+        height: 400px;
+    }
+    .section_carousel{
+        width: 85%;
+    }
+}
+@media (max-width:380px){
+        .div_carousel{
+        height: 300px;
+    }
+}
 

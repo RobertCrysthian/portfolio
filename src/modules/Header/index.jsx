@@ -1,4 +1,3 @@
-import logo from './logo.png'
 import "./Header.css"
 import { Link } from 'react-router-dom'
 
@@ -6,7 +5,6 @@ import { Link } from 'react-router-dom'
 export default function Header(){
     return(
         <header className="header">
-            {<img src={logo} alt="Page's Icon"/> }
             <div className="div_buttons">
                 <Link to="/">Home</Link>
                 <a>About Me</a>

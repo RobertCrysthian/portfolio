@@ -11,29 +11,52 @@ export default function Image(){
     const [like, setLike] = useState(true)
     const navigate = useNavigate();
     var {id} = useParams();
-    if(id<1){
-        id=20
-    }else if(id>preview.length){
-        id=1
+    if(id<0){
+        id=preview.length-1
+    }else if(id>preview.length-1){
+        id=0
     }
     
     return(
         <section className="sectionImage">
-            <button onClick={() => navigate(`/imagem/${parseInt(id)-1}`)}>{"<"}</button>
-            <img src= {preview[id-1].imgCompleta} width={600} alt="imagem selecionada"></img>
-            <button onClick={() => navigate(`/imagem/${parseInt(id)+1}`)}>{">"}</button>
-            <div className="info">
-                    <img src={img} alt="Foto do portifólio" width={140} height={140}/>
-                    <h1>{preview[id-1].titulo}</h1>
+            <button
+                onClick={() => navigate(`/imagem/${parseInt(id)-1}`)}>
+                    {"<"}
+            </button>
+            <img className="featuredDraw"
+                src= {preview[id].imgCompleta} 
+                width={600} 
+                alt="imagem selecionada"
+            />
+            <button 
+                onClick={() => navigate(`/imagem/${parseInt(id)+1}`)}>
+                {">"}
+                </button>
+
+                <div className="info">
+                    <img 
+                        src={img} 
+                        alt="Foto do portifólio" 
+                        width={140} 
+                        height={140}
+                    />
+                    <h1>{preview[id].titulo}</h1>
+                    <p>{preview[id].descricao}</p>
                     <div className="links">
-                        <a onClick={() => setLike(!like)} className={`links_a ${like? "" : "like"}`}>{like? <Deslike/> : <Like/>}Like</a>
-                        <Link className={`links_a`} target="_blank" rel="noopener noreferrer" to={`/imagem/${id}/${id}`}><Save/>Save</Link>
+                        <a
+                            onClick={() => setLike(!like)}
+                            className={`links_a ${like ? "" : "like"}`}>
+                                {like ? <Deslike /> : <Like />}Like
+                        </a>
+                        <Link 
+                            className={`links_a`} 
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            to={`/imagem/${id}/${id}`}>
+                                <Save/>Save
+                        </Link>
                     </div>
-
-
-
-            </div>
-
-        </section>
-    )
-}
+                </div>
+            </section>
+        )
+    }

@@ -1,22 +1,23 @@
 .header{
 display:flex;
-justify-content: space-between;
+justify-content:end;
 align-items: center;
 margin: 0%;
 background-color: #302d2d;
 padding: 2%;
+width: 96%;
 }
 
 .header a{
     color:#F2F2F2;
-    background-color: #F22E2E;
     padding: 1.8% 5%;
     margin: 5px;
     border-radius: 10px;
+    text-decoration: none;
 }
 
 .header a:hover{
-    background-color: #F26363;
+    background-color: #1d1b1b;
     cursor:pointer;
 
 }
@@ -29,6 +30,9 @@ height:30%;
 }
 
 @media (max-width: 615px){
+    .header{
+        width: 103%;
+    }
     .div_buttons{
         display: flex;
         justify-content: center;

@@ -9,7 +9,6 @@ export default function AboutMe(){
             <div className="elements">
                 <h2>About me: </h2>
                 <img src={img} alt="Foto do portifólio"/>
-
             </div>
             <div className="centralize_description">
                 <div className="description">

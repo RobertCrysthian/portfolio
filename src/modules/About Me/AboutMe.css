@@ -1,5 +1,4 @@
-
-.container_aboutMe h2{
+.container_aboutMe h2, p{
     color:#F2F2F2;
 
 }
@@ -11,14 +10,14 @@
 }
 
 .contacts {
-    color:#F2F2F2;
     height: 60px;
     margin: 10px;
+    width: 100%;
 }
 
 .centralize_description a{
     background-color: #F22E2E;
-    padding:20px 100px;
+    padding:1% 5%;
     border-radius: 80px;
     margin: 40px;
 }
@@ -55,6 +54,16 @@
     border-radius:10px;
 }
 
-.description p{
-    color:#ffffff
+@media (max-width:650px) {
+
+    .centralize_description a{
+        display:flex;
+        height: 25px;
+        align-items: center;
+        justify-content: center;
+        margin: 15px;
+    }
+    .contacts{
+        margin-top: 0px;
+    }
 }

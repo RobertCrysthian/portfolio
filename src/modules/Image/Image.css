@@ -29,6 +29,10 @@
     margin: 6%;
 }
 
+.info p{
+    padding:15px;
+}
+
 .info img{
     border-radius: 100%;
     margin:3%
@@ -58,4 +62,21 @@
 }
 .like:hover{
     background-color: #4b8b25;
+}
+
+@media(max-width:1170px){
+    .sectionImage{
+        display:flex;
+        flex-direction: column;
+    }
+    .featuredDraw{
+        width: 80%;
+    }
+    .info{
+        width: 90%;
+    }
+    .info p{
+        font-size: 1rem;
+        padding: 15px;
+    }
 }
