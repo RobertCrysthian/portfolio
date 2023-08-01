@@ -41,8 +41,21 @@
 
 }
 
-.links a{
+.links_a{
     background-color: #F22E2E;
     padding: 2.5% 16%;
     border-radius: 15px;
+    text-decoration: none;
+    color:black;
+}
+.links_a:hover{
+    cursor:pointer;
+    background-color: #F26363;
+}
+
+.like{
+    background-color: #58a02e;
+}
+.like:hover{
+    background-color: #4b8b25;
 }

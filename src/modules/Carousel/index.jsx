@@ -10,7 +10,7 @@ export default function CarouselComponent(){
         <section class="section_carousel">
             <h2>Featured projects:</h2>
             <div className="tamanhoCarousel">
-                <Carousel autoPlay={true} infiniteLoop={true} interval={3000}>
+                <Carousel autoPlay={true} infiniteLoop={true} interval={3000} showStatus={false} showThumbs={false}>
                     <div className="div_carousel">
                         <img src={preview[0].imgCompleta}/>
                         

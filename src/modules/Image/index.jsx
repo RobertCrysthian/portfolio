@@ -1,9 +1,9 @@
 import preview from '../Galeria/preview.json'
 import {GiSaveArrow as Save} from 'react-icons/gi'
 import {AiFillLike as Like} from 'react-icons/ai'
-import {AiFillDislike as Deslike} from 'react-icons/ai'
+import {AiOutlineLike as Deslike} from 'react-icons/ai'
 import './Image.css'
-import { useNavigate, useParams } from "react-router-dom"
+import { Link, useNavigate, useParams } from "react-router-dom"
 import img from '../../assets/Screenshot_1.png'
 import { useState } from 'react'
 
@@ -13,7 +13,7 @@ export default function Image(){
     var {id} = useParams();
     if(id<1){
         id=20
-    }else if(id>20){
+    }else if(id>preview.length){
         id=1
     }
     
@@ -26,8 +26,8 @@ export default function Image(){
                     <img src={img} alt="Foto do portifólio" width={140} height={140}/>
                     <h1>{preview[id-1].titulo}</h1>
                     <div className="links">
-                        <a onClick={() => setLike(!like)}>{like? <Like/> : <Deslike/>}Like</a>
-                        <a><Save/>Save</a>
+                        <a onClick={() => setLike(!like)} className={`links_a ${like? "" : "like"}`}>{like? <Deslike/> : <Like/>}Like</a>
+                        <Link className={`links_a`} target="_blank" rel="noopener noreferrer" to={`/imagem/${id}/${id}`}><Save/>Save</Link>
                     </div>
 
 
