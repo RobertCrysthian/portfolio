@@ -64,6 +64,12 @@
     background-color: #4b8b25;
 }
 
+.return{
+    text-align: center;
+    margin: 3%;
+    width: 58%;
+}
+
 @media(max-width:1170px){
     .sectionImage{
         display:flex;

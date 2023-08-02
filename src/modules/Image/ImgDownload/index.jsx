@@ -5,7 +5,7 @@ export default function DownloadImg(){
     var {id} = useParams()
     return(
         <div>
-            <img src={preview[id-1].imgCompleta}></img>
+            <img src={preview[id].imgCompleta}></img>
         </div>
     )
         

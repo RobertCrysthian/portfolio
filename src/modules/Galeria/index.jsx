@@ -2,29 +2,37 @@ import preview from './preview.json'
 import './Galeria.css'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import {BsSearch} from 'react-icons/bs'
 
 export default function Galeria() {
     const navigate = useNavigate();
 
-    const tags = [... new Set(preview.map((valor) => valor.tag))]
-    const [filter, setFilter] = useState(preview)
+    const [search, setSearch] = useState('')
+    const DescendingList = [...preview].sort((a, b) => b.id -a.id)
+
+    const tags = [... new Set(DescendingList.map((valor) => valor.tag))]
+    const [filter, setFilter] = useState(DescendingList)
     var changeImg = (tag) => {
-        var newImages = preview.filter((e) => {
+        var newImages = DescendingList.filter((e) => {
             return e.tag === tag;
         })
         setFilter(newImages);
+
     }
     return (
+
         <div className="galeria">
             <h1>All my projects: </h1>
             <ul>
                 {tags.map((e) => { return <li onClick={() => changeImg(e)}>{e}</li> })}
-                <li onClick={() => setFilter(preview)}>All</li>
+                <li onClick={() => setFilter(DescendingList)}>All</li>
             </ul>
-            <div class="centralizar">
+            
+            <div>
                 <div className="images">
                     {filter.map((e) => {
                         return <img
+                            id={e.id}
                             src={e.imagem}
                             alt="galery images"
                             width={380}

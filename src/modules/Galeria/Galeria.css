@@ -41,6 +41,11 @@ h1{
     color:#F2F2F2;
 }
 
+ul{
+    display: flex;
+    align-items: center;
+}
+
 @media(max-width:800px){
 
     .galeria ul{
@@ -61,5 +66,11 @@ h1{
         display: flex;
         align-items: center;
         justify-content: center;
+    }
+    .searchIcon{
+        visibility: hidden;
+    }
+    .searchbar{
+        width: 90%;
     }
 }

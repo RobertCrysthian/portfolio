@@ -56,6 +56,7 @@ export default function Image(){
                                 <Save/>Save
                         </Link>
                     </div>
+                    <Link to={'/'} className={`links_a return`}>{">>>"}Return{"<<<"}</Link>
                 </div>
             </section>
         )

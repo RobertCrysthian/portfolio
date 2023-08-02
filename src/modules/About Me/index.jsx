@@ -5,7 +5,7 @@ import "./AboutMe.css"
 export default function AboutMe(){
     return(
         
-        <div class="container_aboutMe">
+        <div className="container_aboutMe">
             <div className="elements">
                 <h2>About me: </h2>
                 <img src={img} alt="Foto do portifólio"/>

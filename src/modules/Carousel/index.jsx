@@ -7,7 +7,7 @@ import preview from '../Galeria/preview.json'
 export default function CarouselComponent(){
     return(
         <div className="centralizar">
-        <section class="section_carousel">
+        <section className="section_carousel">
             <h2>Featured projects:</h2>
             <div className="tamanhoCarousel">
                 <Carousel autoPlay={true} infiniteLoop={true} interval={3000} showStatus={false} showThumbs={false}>
