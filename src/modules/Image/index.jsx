@@ -20,7 +20,7 @@ export default function Image(){
     return(
         <section className="sectionImage">
             <button
-                onClick={() => navigate(`/imagem/${parseInt(id)-1}`)}>
+                onClick={() => navigate(`/imagem/${parseInt(id)+1}`)}>
                     {"<"}
             </button>
             <img className="featuredDraw"
@@ -29,7 +29,7 @@ export default function Image(){
                 alt="imagem selecionada"
             />
             <button 
-                onClick={() => navigate(`/imagem/${parseInt(id)+1}`)}>
+                onClick={() => navigate(`/imagem/${parseInt(id)-1}`)}>
                 {">"}
                 </button>
 

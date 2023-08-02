@@ -2,12 +2,10 @@ import preview from './preview.json'
 import './Galeria.css'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import {BsSearch} from 'react-icons/bs'
 
 export default function Galeria() {
     const navigate = useNavigate();
 
-    const [search, setSearch] = useState('')
     const DescendingList = [...preview].sort((a, b) => b.id -a.id)
 
     const tags = [... new Set(DescendingList.map((valor) => valor.tag))]
