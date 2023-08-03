@@ -12,16 +12,23 @@ export default function CarouselComponent(){
             <div className="tamanhoCarousel">
                 <Carousel autoPlay={true} infiniteLoop={true} interval={3000} showStatus={false} showThumbs={false} renderIndicator={false}>
                     <div className="div_carousel">
-                        <img src={preview[0].imgCompleta}/>
+                        <img src={preview[90].imgCompleta}/>
     
                     </div>
                     <div className="div_carousel">
-                        <img src={preview[0].imgCompleta}/>
-                        
+                        <img src={preview[89].imgCompleta}/>
                     </div>
                     <div className="div_carousel">
-                        <img src={preview[0].imgCompleta} />
-                        
+                        <img src={preview[79].imgCompleta} />
+                    </div>
+                    <div className="div_carousel">
+                        <img src={preview[74].imgCompleta} />
+                    </div>
+                    <div className="div_carousel">
+                        <img src={preview[91].imgCompleta} />
+                    </div>
+                    <div className="div_carousel">
+                        <img src={preview[88].imgCompleta} />
                     </div>
                 </Carousel>
             </div>
