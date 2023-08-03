@@ -1,170 +1,787 @@
 [
     {
-    "titulo": "Sailor Moon frame",
-    "imagem": "/assets/Preview/p-Sailor new remaster.png",
-    "descricao": "Draw I made when was everybody drawing her",
+    "titulo": "2 perspective points",
+    "imagem": "/assets/Desenhos data/preview/0.jpg",
+    "descricao": "Draw I did training 2 perspective points",
     "id": "0",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/Sailor new remaster.jpg"
-    },
-    {
-    "titulo": "Coconut falling",
-    "imagem": "/assets/Preview/p-coconut.jpg",
-    "descricao": "Neko girl falling slowly",
-    "id": "1",
-    "tag": "2021",
-    "imgCompleta": "/assets/Desenhos/coconut.jpg"
-    },
-    {
-    "titulo": "Eliza stonks",
-    "imagem": "/assets/Preview/p-Eliza.jpg",
-    "descricao": "It was made when Eliza got a huge buff",
-    "id": "2",
-    "tag": "2020",
-    "imgCompleta": "/assets/Desenhos/Eliza.jpg"
-    },
-    {
-    "titulo": "Little frutas",
-    "imagem": "/assets/Preview/p-frutinha1.jpg",
-    "descricao": "I made this trying to emulate tradicional painting",
-    "id": "3",
-    "tag": "2020",
-    "imgCompleta": "/assets/Desenhos/frutinha1.jpg"
-        },
-        {
-    "titulo": "Sam's process study",
-    "imagem": "/assets/Preview/p-Sam process.jpg",
-    "descricao": "This is a copy from an art made by Sam. I was trying to learn with his style.",
-    "id": "4",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/Sam process.jpg"
-        },
-    {
-    "titulo": "Kiriko pray",
-    "imagem": "/assets/Preview/p-Kiriko true.jpg",
-    "descricao": "Kiriko pray :pray: ",
-    "id": "5",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/Kiriko true.jpg"
-    },
-    {
-    "titulo": "Landscape study",
-    "imagem": "/assets/Preview/p-landscape without personbrush.jpg",
-    "descricao": "Trying to paint a landscape using laço tool",
-    "id": "6",
-    "tag": "2021",
-    "imgCompleta": "/assets/Desenhos/landscape without personbrush.jpg"
-    },
-    {
-    "titulo": "Capitães d'areia",
-    "imagem": "/assets/Preview/p-Capitão aaa.jpg",
-    "descricao": "This was a first page of a material who a made with a friend in college",
-    "id": "7",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/Capitão aaa.jpg" 
-    },
-    {
-    "titulo": "Little maça",
-    "imagem": "/assets/Preview/p-Maçazinha.jpg",
-    "descricao": "Attempt to draw apples",
-    "id": "8",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/Maçazinha.jpg"
-    },
-    {
-    "titulo": "I don't wanna go Mercy",
-    "imagem": "/assets/Preview/p-mercy.jpg",
-    "descricao": "I don't wanna play with any kind of support",
-    "id": "9",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/mercy.jpg" 
-    },
-    {
-    "titulo": "Danganronpa's lady",
-    "imagem": "/assets/Preview/p-mina do danga2.jpg",
-    "descricao": "This girl is insane",
-    "id": "10",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/mina do danga2.jpg" 
-    },
-    {
-    "titulo": "Miss fortona",
-    "imagem": "/assets/Preview/p-mis fortuna.jpg",
-    "descricao": "strong woman",
-    "id": "11",
     "tag": "2019",
-    "imgCompleta": "/assets/Desenhos/mis fortuna.jpg"
+    "imgCompleta": "/assets/Desenhos data/2019/2pt.jpg"
     },
     {
-    "titulo": "Creepy moji",
-    "imagem": "/assets/Preview/p-moji.jpg",
-    "descricao": "I don't like this, but...",
-    "id": "12",
-    "tag": "2020",
-    "imgCompleta": "/assets/Desenhos/moji.jpg" 
+    "titulo": "2 perspective points",
+    "imagem": "/assets/Desenhos data/preview/1.jpg",
+    "descricao": "Draw I did training 2 perspective points",
+    "id": "1",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/2pt.jpg"
     },
     {
-    "titulo": "Perspective training",
-    "imagem": "/assets/Preview/p-O tal estudo de perspectiva.jpg",
-    "descricao": "Attempt to make a draw with environment",
-    "id": "13",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/O tal do estudo de perspectiva.jpg"
+    "titulo": "Fairyyy",
+    "imagem": "/assets/Desenhos data/preview/2.jpg",
+    "descricao": "If I don't finish this, I am gay (this was the name of the file)",
+    "id": "2",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/2019-fda.jpg"
     },
     {
-    "titulo": "Osu contest try",
-    "imagem": "/assets/Preview/p-osu! main menu 2732x1536.jpg",
-    "descricao": "I made a full draw to participate of a contest but don't finished at time",
-    "id": "14",
-    "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/osu! main menu 2732x1536.jpg"
+    "titulo": "My occc",
+    "imagem": "/assets/Desenhos data/preview/3.jpg",
+    "descricao": "My first original characters",
+    "id": "3",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/aasd.jpg"
+    },
+    {
+    "titulo": "Anime girl",
+    "imagem": "/assets/Desenhos data/preview/4.jpg",
+    "descricao": "Trying to improve line art",
+    "id": "4",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/animegirl2019.jpg"
+    },
+    {
+    "titulo": "Brazilian oc",
+    "imagem": "/assets/Desenhos data/preview/5.jpg",
+    "descricao": "Give a name to her",
+    "id": "5",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/bazil.jpg"
     },
     {
     "titulo": "Peacock",
-    "imagem": "/assets/Preview/p-peckock.jpg",
-    "descricao": "I love pavão",
+    "imagem": "/assets/Desenhos data/preview/6.jpg",
+    "descricao": "First attempt to draw Peacock",
+    "id": "6",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/cock2019.png"
+    },
+    {
+    "titulo": "little red hat",
+    "imagem": "/assets/Desenhos data/preview/7.jpg",
+    "descricao": "Be carefull with the wolf",
+    "id": "7",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/coisa linda.jpg"
+    },
+    {
+    "titulo": "little red hat 2",
+    "imagem": "/assets/Desenhos data/preview/8.jpg",
+    "descricao": "Trying to improve line art",
+    "id": "8",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/coisa linda2.jpg"
+    },
+    {
+    "titulo": "Idk what is this",
+    "imagem": "/assets/Desenhos data/preview/9.jpg",
+    "descricao": "My name is a bit strange",
+    "id": "9",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/esse eu termino.jpg"
+    },
+    {
+    "titulo": "Felbit",
+    "imagem": "/assets/Desenhos data/preview/10.jpg",
+    "descricao": "Fusion with Felicia and Gambit",
+    "id": "10",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/jpg.jpg"
+    },
+    {
+    "titulo": "I am an degenerate",
+    "imagem": "/assets/Desenhos data/preview/11.jpg",
+    "descricao": "Nothing to say about it",
+    "id": "11",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/menat.jpg"
+    },
+    {
+    "titulo": "Sailor Moon frame",
+    "imagem": "/assets/Desenhos data/preview/12.jpg",
+    "descricao": "First attempt to draw her",
+    "id": "12",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/sailormoon2019.jpg"
+    },
+    {
+    "titulo": "tradicional drawn",
+    "imagem": "/assets/Desenhos data/preview/13.jpg",
+    "descricao": "I draw in the paper too",
+    "id": "13",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/trad2.jpg"
+    },
+    {
+    "titulo": "tradicional drawn",
+    "imagem": "/assets/Desenhos data/preview/14.jpg",
+    "descricao": "I draw in the paper too",
+    "id": "14",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/trad3.jpg"
+    },
+    {
+    "titulo": "tradicional drawn",
+    "imagem": "/assets/Desenhos data/preview/15.jpg",
+    "descricao": "I draw in the paper too",
     "id": "15",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/trad4.jpg"
+    },
+    {
+    "titulo": "tradicional drawn",
+    "imagem": "/assets/Desenhos data/preview/16.jpg",
+    "descricao": "I draw in the paper too",
+    "id": "16",
+    "tag": "2019",
+    "imgCompleta": "/assets/Desenhos data/2019/tradicional.jpg"
+    },
+    {
+    "titulo": "perspective 2 points",
+    "imagem": "/assets/Desenhos data/preview/17.jpg",
+    "descricao": "Her face is strange, but ok",
+    "id": "17",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/2perspec.jpg"
+    },
+    {
+    "titulo": "An forest",
+    "imagem": "/assets/Desenhos data/preview/18.jpg",
+    "descricao": "Forest with wooood",
+    "id": "18",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/2020 forest.jpg"
+    },
+    {
+    "titulo": "Cala Maria",
+    "imagem": "/assets/Desenhos data/preview/19.jpg",
+    "descricao": "I hate her final form",
+    "id": "19",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/2020 sereia.jpg"
+    },
+    {
+    "titulo": "Stairs",
+    "imagem": "/assets/Desenhos data/preview/20.jpg",
+    "descricao": "I had no idea what I was doing, for sure",
+    "id": "20",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/2020.jpg"
+    },
+    {
+    "titulo": "I drew the fairy again",
+    "imagem": "/assets/Desenhos data/preview/21.jpg",
+    "descricao": "But now in grey scale, but really bad",
+    "id": "21",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/2020fada.jpg"
+    },
+    {
+    "titulo": "Pretty girl",
+    "imagem": "/assets/Desenhos data/preview/22.jpg",
+    "descricao": "Pretty lady, oc of a friend",
+    "id": "22",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/2020girl.jpg"
+    },
+    {
+    "titulo": "My portrait, I guess??",
+    "imagem": "/assets/Desenhos data/preview/23.jpg",
+    "descricao": "Yes, I am strange",
+    "id": "23",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/111111.jpg"
+    },
+    {
+    "titulo": "I don't like this, but...",
+    "imagem": "/assets/Desenhos data/preview/24.jpg",
+    "descricao": "I need to learn how to draw hair",
+    "id": "24",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/A.jpg"
+    },
+    {
+    "titulo": "Pretty boy",
+    "imagem": "/assets/Desenhos data/preview/25.jpg",
+    "descricao": "I draw men too",
+    "id": "25",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/aaaa.jpg"
+    },
+    {
+    "titulo": "My psycho oc",
+    "imagem": "/assets/Desenhos data/preview/26.jpg",
+    "descricao": "I need to draw her more",
+    "id": "26",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/asffasgfasfasfs.jpg"
+    },
+    {
+    "titulo": "Dinossaur",
+    "imagem": "/assets/Desenhos data/preview/27.jpg",
+    "descricao": "Study for a painting made by Guilherme Freitas",
+    "id": "27",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/Dinosaur painting.jpg"
+    },
+    {
+    "titulo": "Little red hat 3",
+    "imagem": "/assets/Desenhos data/preview/28.jpg",
+    "descricao": "I don't like this one",
+    "id": "28",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/girl aaa.jpg"
+    },
+    {
+    "titulo": "screaammm",
+    "imagem": "/assets/Desenhos data/preview/29.jpg",
+    "descricao": "SOMEBODY SCREEEAAAAAMMMMM",
+    "id": "29",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/grito2020.jpg"
+    },
+    {
+    "titulo": "Vampire girl",
+    "imagem": "/assets/Desenhos data/preview/30.jpg",
+    "descricao": "The vampire from overlord, I forgot her name",
+    "id": "30",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/melhorwaifuimagem.jpg"
+    },
+    {
+    "titulo": "Other crazy girl",
+    "imagem": "/assets/Desenhos data/preview/31.jpg",
+    "descricao": "This game is strange",
+    "id": "31",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/mogekocastelo.jpg"
+    },
+    {
+    "titulo": "Draw my oc again",
+    "imagem": "/assets/Desenhos data/preview/32.jpg",
+    "descricao": "This hair don't make sense",
+    "id": "32",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/oc.jpeg"
+    },
+    {
+    "titulo": "Oc again",
+    "imagem": "/assets/Desenhos data/preview/33.jpg",
+    "descricao": "I like this one",
+    "id": "33",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/oc2.jpg"
+    },
+    {
+    "titulo": "beautiful girl, butt...",
+    "imagem": "/assets/Desenhos data/preview/34.jpg",
+    "descricao": "This is a good draw, butt I need to make an rework",
+    "id": "34",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/oc3.jpg"
+    },
+    {
+    "titulo": "Goo Brazil",
+    "imagem": "/assets/Desenhos data/preview/35.jpg",
+    "descricao": "Patriotic oc",
+    "id": "35",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/occ.jpg"
+    },
+    {
+    "titulo": "Ornintorrinco (is the file's name)",
+    "imagem": "/assets/Desenhos data/preview/36.jpg",
+    "descricao": "Wtf is this nose",
+    "id": "36",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/ornintorrinco.jpg"
+    },
+    {
+    "titulo": "Sun set",
+    "imagem": "/assets/Desenhos data/preview/37.jpg",
+    "descricao": "I am lazy",
+    "id": "37",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/paisagem 2020.jpg"
+    },
+    {
+    "titulo": "halloween osu try",
+    "imagem": "/assets/Desenhos data/preview/38.jpg",
+    "descricao": "This was made for the osu contest (I failed, of course)",
+    "id": "38",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/ráloim.jpg"
+    },
+    {
+    "titulo": "roblox",
+    "imagem": "/assets/Desenhos data/preview/39.jpg",
+    "descricao": "?????? Don't ask me",
+    "id": "39",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/roblox.jpg"
+    },
+    {
+    "titulo": "Fruits",
+    "imagem": "/assets/Desenhos data/preview/40.jpg",
+    "descricao": "I tried",
+    "id": "40",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/sim, sim.jpg"
+    },
+    {
+    "titulo": "Sailor Moon frame 2",
+    "imagem": "/assets/Desenhos data/preview/41.jpg",
+    "descricao": "Me trying to draw her again",
+    "id": "41",
+    "tag": "2020",
+    "imgCompleta": "/assets/Desenhos data/2020/verdadeira.jpg"
+    },
+    {
+    "titulo": "Pokemon",
+    "imagem": "/assets/Desenhos data/preview/42.jpg",
+    "descricao": "That pokemon that I don't know the name",
+    "id": "42",
     "tag": "2021",
-    "imgCompleta": "/assets/Desenhos/peacock.jpg" 
+    "imgCompleta": "/assets/Desenhos data/2021/alo2021.jpg"
+    },
+    {
+    "titulo": "Annie",
+    "imagem": "/assets/Desenhos data/preview/43.jpg",
+    "descricao": "The gesture is actually good",
+    "id": "43",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Annie.jpg"
+    },
+    {
+    "titulo": "Greyscale",
+    "imagem": "/assets/Desenhos data/preview/44.jpg",
+    "descricao": "I tried, but this is scary",
+    "id": "44",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Aplicação de pintura.jpg"
+    },
+    {
+    "titulo": "Idk what is this",
+    "imagem": "/assets/Desenhos data/preview/45.jpg",
+    "descricao": "Montain is strange",
+    "id": "45",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/aufnaufifasfolafafs.jpg"
+    },
+    {
+    "titulo": "aura character",
+    "imagem": "/assets/Desenhos data/preview/46.jpg",
+    "descricao": "First comission",
+    "id": "46",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/auraaa.jpg"
+    },
+    {
+    "titulo": "Azuki",
+    "imagem": "/assets/Desenhos data/preview/47.jpg",
+    "descricao": "I don't know who is her",
+    "id": "47",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/azuki.jpg"
+    },
+    {
+    "titulo": "Chocola",
+    "imagem": "/assets/Desenhos data/preview/48.jpg",
+    "descricao": "I don't know her",
+    "id": "48",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/chocola.jpg"
+    },
+    {
+    "titulo": "Cinnamon",
+    "imagem": "/assets/Desenhos data/preview/49.jpg",
+    "descricao": "I dont't know her",
+    "id": "49",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/cinnamon.jpg"
+    },
+    {
+    "titulo": "Coconut",
+    "imagem": "/assets/Desenhos data/preview/50.jpg",
+    "descricao": "I really like this one",
+    "id": "50",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/coconut.jpg"
+    },
+    {
+    "titulo": "Witch Evie",
+    "imagem": "/assets/Desenhos data/preview/51.jpg",
+    "descricao": "Evieeeeeeeeeeeee",
+    "id": "51",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/ervilha.jpg"
+    },
+    {
+    "titulo": "Some random girl",
+    "imagem": "/assets/Desenhos data/preview/52.jpg",
+    "descricao": "Yeah, its a girl...",
+    "id": "52",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/estudo linha.jpg"
+    },
+    {
+    "titulo": "Iris from pokemon",
+    "imagem": "/assets/Desenhos data/preview/53.jpg",
+    "descricao": "Thonk...",
+    "id": "53",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/iris thonk.jpg"
+    },
+    {
+    "titulo": "Landscape study",
+    "imagem": "/assets/Desenhos data/preview/54.jpg",
+    "descricao": "The title says by itsself",
+    "id": "54",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Landscape study.jpg"
+    },
+    {
+    "titulo": "Little apple",
+    "imagem": "/assets/Desenhos data/preview/55.jpg",
+    "descricao": "Trying to paint fruits",
+    "id": "55",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Maçazinha.jpg"
+    },
+    {
+    "titulo": "Maple",
+    "imagem": "/assets/Desenhos data/preview/56.jpg",
+    "descricao": "I don't know her ",
+    "id": "56",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/maple.jpg"
+    },
+    {
+    "titulo": "Strong Mickey",
+    "imagem": "/assets/Desenhos data/preview/57.jpg",
+    "descricao": "I am not normal",
+    "id": "57",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Mickey.jpg"
+    },
+    {
+    "titulo": "Beautiful moça",
+    "imagem": "/assets/Desenhos data/preview/58.jpg",
+    "descricao": "Just the same... anime girl",
+    "id": "58",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/moça bonita2021.jpg"
+    },
+    {
+    "titulo": "A man",
+    "imagem": "/assets/Desenhos data/preview/59.jpg",
+    "descricao": "Portrait of a man",
+    "id": "59",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Painting.jpg"
+    },
+    {
+    "titulo": "Another painting of a girlll",
+    "imagem": "/assets/Desenhos data/preview/60.jpg",
+    "descricao": "First time trying this type of painting",
+    "id": "60",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/painting2020.jpg"
+    },
+    {
+    "titulo": "Peacock",
+    "imagem": "/assets/Desenhos data/preview/61.jpg",
+    "descricao": "Second time drawing her",
+    "id": "61",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/peackockasfafasfsa.jpg"
+    },
+    {
+    "titulo": "Portrait of a fried",
+    "imagem": "/assets/Desenhos data/preview/62.jpg",
+    "descricao": "This is actually good.",
+    "id": "62",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/portrait.jpg"
+    },
+    {
+    "titulo": "Rezero simblings",
+    "imagem": "/assets/Desenhos data/preview/63.jpg",
+    "descricao": "I don't remember his name, but I like these characters",
+    "id": "63",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/rezero.jpg"
+    },
+    {
+    "titulo": "Rocks",
+    "imagem": "/assets/Desenhos data/preview/64.jpg",
+    "descricao": "Just Rocks",
+    "id": "64",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Rocks study.jpg"
+    },
+    {
+    "titulo": "Rukia",
+    "imagem": "/assets/Desenhos data/preview/65.jpg",
+    "descricao": "Anime girl, anime girl, animel ",
+    "id": "65",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Rukia.jpg"
+    },
+    {
+    "titulo": "Sailor Moon frame 3",
+    "imagem": "/assets/Desenhos data/preview/66.jpg",
+    "descricao": "I love this draw",
+    "id": "66",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/sailor lua.jpg"
+    },
+    {
+    "titulo": "Skye",
+    "imagem": "/assets/Desenhos data/preview/67.jpg",
+    "descricao": "Demon skye ",
+    "id": "67",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/skye2020.jpg"
+    },
+    {
+    "titulo": "Girl again",
+    "imagem": "/assets/Desenhos data/preview/68.jpg",
+    "descricao": "I like this troublesome hair",
+    "id": "68",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Two.jpg"
+    },
+    {
+    "titulo": "Unohana",
+    "imagem": "/assets/Desenhos data/preview/69.jpg",
+    "descricao": "Nice hat",
+    "id": "69",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/unohana.jpg"
+    },
+    {
+    "titulo": "Vanilla",
+    "imagem": "/assets/Desenhos data/preview/70.jpg",
+    "descricao": "Who is her?? Idk",
+    "id": "70",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Vanilla.jpg"
+    },
+    {
+    "titulo": "Zang",
+    "imagem": "/assets/Desenhos data/preview/71.jpg",
+    "descricao": "A strong man",
+    "id": "71",
+    "tag": "2021",
+    "imgCompleta": "/assets/Desenhos data/2021/Zang.jpg"
     },
     {
     "titulo": "Ilumination study",
-    "imagem": "/assets/Preview/p-reflexo.jpg",
-    "descricao": "I don't even know why I put this here",
-    "id": "16",
-    "tag": "2020",
-    "imgCompleta": "/assets/Desenhos/reflexo.jpg"
-    },
-    {
-    "titulo": "Simblins from re-zero",
-    "imagem": "/assets/Preview/p-rezero.jpg",
-    "descricao": "I don't know the name of these characters, but I like them",
-    "id": "17",
-    "tag": "2021",
-    "imgCompleta": "/assets/Desenhos/rezero.jpg" 
-    },
-    {
-    "titulo": "Colab with biscoito",
-    "imagem": "/assets/Preview/p-S196.png",
-    "descricao": "An colab who I made with my friend 'Biscoito'. He made the lineart and I made the painting",
-    "id": "18",
+    "imagem": "/assets/Desenhos data/preview/72.jpg",
+    "descricao": "Just a study",
+    "id": "72",
     "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/S196.png"
+    "imgCompleta": "/assets/Desenhos data/2022/Bonequinho de luz.jpg"
     },
     {
-    "titulo": "Get Jinx",
-    "imagem": "/assets/Preview/p-get jinx.jpg",
-    "descricao": "Crazy das ideia",
-    "id": "19",
+    "titulo": "Little carrot",
+    "imagem": "/assets/Desenhos data/preview/73.jpg",
+    "descricao": "Just a carrot",
+    "id": "73",
     "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/get jinx.jpg"
+    "imgCompleta": "/assets/Desenhos data/2022/cenourinha.jpg"
     },
     {
-    "titulo": "Jurassic Ying",
-    "imagem": "/assets/Preview/p-ying.jpg",
+    "titulo": "Dva hi",
+    "imagem": "/assets/Desenhos data/preview/74.jpg",
+    "descricao": "Hello guys",
+    "id": "74",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/Dva hi.jpg"
+    },
+    {
+    "titulo": "Little apple 2",
+    "imagem": "/assets/Desenhos data/preview/75.jpg",
+    "descricao": "Just a apple",
+    "id": "75",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/frutinha1.jpg"
+    },
+    {
+    "titulo": "get jinx",
+    "imagem": "/assets/Desenhos data/preview/76.jpg",
+    "descricao": "Blah-blah, b-blah-blah-blah, blah",
+    "id": "76",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/get jinx.jpg"
+    },
+    {
+    "titulo": "Kaori",
+    "imagem": "/assets/Desenhos data/preview/77.jpg",
+    "descricao": "I gonna cry",
+    "id": "77",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/kaori.jpg"
+    },
+    {
+    "titulo": "Kiriko",
+    "imagem": "/assets/Desenhos data/preview/78.jpg",
+    "descricao": "Kiriko pray :pray:",
+    "id": "78",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/Kiriko true.jpg"
+    },
+    {
+    "titulo": "I don't wanna go Mercy",
+    "imagem": "/assets/Desenhos data/preview/79.jpg",
+    "descricao": "I don't wanna go any kind of support",
+    "id": "79",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/mercy.jpg"
+    },
+    {
+    "titulo": "Danganronpa's girl",
+    "imagem": "/assets/Desenhos data/preview/80.jpg",
+    "descricao": "The crazy one",
+    "id": "80",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/mina do danga2.jpg"
+    },
+    {
+    "titulo": "Mountain",
+    "imagem": "/assets/Desenhos data/preview/81.jpg",
+    "descricao": "Just a mountain",
+    "id": "81",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/Mountain2.jpg"
+    },
+    {
+    "titulo": "Furry",
+    "imagem": "/assets/Desenhos data/preview/82.jpg",
+    "descricao": "This is a copy. Original made by Guilherme Freitas",
+    "id": "82",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/O furry sou eu.jpg"
+    },
+    {
+    "titulo": "Perspective try",
+    "imagem": "/assets/Desenhos data/preview/83.jpg",
     "descricao": "Idk",
-    "id": "20",
+    "id": "83",
     "tag": "2022",
-    "imgCompleta": "/assets/Desenhos/Ying.jpg"
+    "imgCompleta": "/assets/Desenhos data/2022/O tal do estudo de perspectiva.jpg"
+    },
+    {
+    "titulo": "halloween osu try2",
+    "imagem": "/assets/Desenhos data/preview/84.jpg",
+    "descricao": "I don't even invite this in time",
+    "id": "84",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/osu! main menu 2732x1536.jpg"
+    },
+    {
+    "titulo": "Patrick",
+    "imagem": "/assets/Desenhos data/preview/85.jpg",
+    "descricao": "I am not normal2",
+    "id": "85",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/patricc.jpg"
+    },
+    {
+    "titulo": "Pip spider",
+    "imagem": "/assets/Desenhos data/preview/86.jpg",
+    "descricao": "Omegalul",
+    "id": "86",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/pip fui.jpg"
+    },
+    {
+    "titulo": "Robot",
+    "imagem": "/assets/Desenhos data/preview/87.jpg",
+    "descricao": "Creativity is the key",
+    "id": "87",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/robô.jpg"
+    },
+    {
+    "titulo": "Pretty witch",
+    "imagem": "/assets/Desenhos data/preview/88.jpg",
+    "descricao": "colab with biscoito",
+    "id": "88",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/S196.png"
+    },
+    {
+    "titulo": "Sailor Moon frame 4",
+    "imagem": "/assets/Desenhos data/preview/89.jpg",
+    "descricao": "I tried so hard, and got so far...",
+    "id": "89",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/Sailor new remaster.jpg"
+    },
+    {
+    "titulo": "Sam process",
+    "imagem": "/assets/Desenhos data/preview/90.jpg",
+    "descricao": "Trying to study Sam's process",
+    "id": "90",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/Sam process.jpg"
+    },
+    {
+    "titulo": "Utopia",
+    "imagem": "/assets/Desenhos data/preview/91.jpg",
+    "descricao": "I draw this for a very special person",
+    "id": "91",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/Utoopia.jpg"
+    },
+    {
+    "titulo": "Greyscale",
+    "imagem": "/assets/Desenhos data/preview/92.jpg",
+    "descricao": "I like this one",
+    "id": "92",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/Valores1.jpg"
+    },
+    {
+    "titulo": "Veronica",
+    "imagem": "/assets/Desenhos data/preview/93.jpg",
+    "descricao": "My friend's Oc",
+    "id": "93",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/veronica.jpg"
+    },
+    {
+    "titulo": "Shouko and Shouko",
+    "imagem": "/assets/Desenhos data/preview/94.jpg",
+    "descricao": "Epic crossover",
+    "id": "94",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/xouko2022.jpg"
+    },
+    {
+    "titulo": "Yoda",
+    "imagem": "/assets/Desenhos data/preview/95.jpg",
+    "descricao": "The old man",
+    "id": "95",
+    "tag": "2022",
+    "imgCompleta": "/assets/Desenhos data/2022/yoda202.jpg"
+    },
+    {
+    "titulo": "Capitães d'areia",
+    "imagem": "/assets/Desenhos data/preview/96.jpg",
+    "descricao": "Really good book",
+    "id": "96",
+    "tag": "2023",
+    "imgCompleta": "/assets/Desenhos data/2023/Capitão aaa.jpg"
+    },
+    {
+    "titulo": "Ying Jurassic",
+    "imagem": "/assets/Desenhos data/preview/98.jpg",
+    "descricao": "I love her design",
+    "id": "97",
+    "tag": "2023",
+    "imgCompleta": "/assets/Desenhos data/2023/Ying.jpg"
     }
+
 ]

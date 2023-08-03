@@ -16,11 +16,11 @@ export default function CarouselComponent(){
     
                     </div>
                     <div className="div_carousel">
-                        <img src={preview[3].imgCompleta}/>
+                        <img src={preview[0].imgCompleta}/>
                         
                     </div>
                     <div className="div_carousel">
-                        <img src={preview[4].imgCompleta} />
+                        <img src={preview[0].imgCompleta} />
                         
                     </div>
                 </Carousel>

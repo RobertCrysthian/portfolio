@@ -33,7 +33,7 @@ export default function Galeria() {
                             id={e.id}
                             src={e.imagem}
                             alt="galery images"
-                            width={380}
+                            width={350}
                             onClick={() => navigate(`imagem/${e.id}`)}
                         />
                     })}
